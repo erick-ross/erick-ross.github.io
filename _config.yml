@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Erick Ross
   avatar: bio-photo.jpg
-  bio: # Mathematician
+  bio: "email: erickr (at) clemson.edu" 
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
