@@ -8,12 +8,12 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Erick Ross
   avatar: bio-photo.jpg
-  bio: "email: erickr (at) clemson.edu" 
-  email: #emailaddress
+  bio: Mathematician and Slave to Christ
+  email: erickr@clemson.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: #username
+  github: erick-ross
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
