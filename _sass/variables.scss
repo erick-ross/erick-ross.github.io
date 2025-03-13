@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 22;
+$doc-font-size: 14;
 $doc-line-height: 30;
 $paragraph-indent: 0;
 $base-font: 'PT Serif', serif;
@@ -62,8 +62,8 @@ $linkcolorfocus 	: darken($linkcolorvisited, 10);
    Breakpoints
    ========================================================================== */
 
-$micro            : "only screen and (min-width: 30em)";
-$small            : "only screen and (min-width: 37.5em)";
-$medium           : "only screen and (min-width: 48em)";
-$large            : "only screen and (min-width: 62em)";
-$x-large          : "only screen and (min-width: 86.375em)";
+$micro            : "only screen and (min-width: 130em)";
+$small            : "only screen and (min-width: 137.5em)";
+$medium           : "only screen and (min-width: 148em)";
+$large            : "only screen and (min-width: 162em)";
+$x-large          : "only screen and (min-width: 186.375em)";
