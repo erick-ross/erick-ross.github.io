@@ -4,7 +4,8 @@ layout: page
 
 
 # Classes Taught
-- (Spring 2025) MATH ??
+- (Fall 2023 at Clemson) MATH 1040: Precalculus and Introductory Differential Calculus
+
 
 
 # Classes TA'd for
