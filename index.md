@@ -7,11 +7,12 @@ layout: page
 
 ## About Me
 
-My name is Erick, and I am currently a Mathematics PhD student studying under [Hui Xue](https://huixue.people.clemson.edu/) at Clemson University.
+My name is Erick Ross, and I am currently a Mathematics PhD student studying under [Hui Xue](https://huixue.people.clemson.edu/) at Clemson University.
 
-I work in Number Theory, specifically studying modular forms. A lot of my work comes from very explicit computations of various objects relating to modular forms. As a professor once told me, the great mathematicians of old were not afraid to carry out long tedious calculations, computing lots of examples, and we should not be either. 
+I work in Number Theory, specifically studying modular forms.<br>I also have some interests in Dynamical Systems, and in Theoretical Computer Science.
 
-I also have some interests in Dynamical Systems, and in Theoretical Computer Science.
+A lot of my work has come from very explicit computations of various objects relating to modular forms. Sometimes, we as mathematicians like to work on very fancy things, only working abstractly. However, one can often gain insight by actually carrying out the messy details to compute specific examples. As a professor once told me, the great mathematicians of old were not afraid to carefully carry out long detailed calculations, and we should not be either. 
+
 
 
 
