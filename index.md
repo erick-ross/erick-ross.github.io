@@ -16,7 +16,7 @@ A lot of my work has come from very explicit computations of various objects rel
 
 
 
-This is my prayer as I do mathematics.
+I strive to make the following my prayer as I do mathematics.
 > I give thanks to Thee, O Lord Creator, Who hast delighted me with Thy makings. In the works of Thy hands have I exulted. Behold! Now, I have employed as much power of mind as Thou didst give me; to the men who are going to read those demonstrations, I have made manifest the glory of Thy works, as much of its infinity as the narrows of my intellect could apprehend.  
 > \- Johannes Kepler
 
