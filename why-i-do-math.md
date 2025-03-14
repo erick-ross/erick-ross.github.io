@@ -4,7 +4,7 @@ layout: page
 
 # Why should we we do mathematics?
 
-Here is 
+Why should we do (pure) mathematics? Many people have struggled to explain  
 
 Why should 
 
