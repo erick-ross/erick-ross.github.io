@@ -1,5 +1,6 @@
 ---
 layout: page
+title:
 # excerpt: "About Me..."
 # menutitle: Home
 # menuorder: 1

@@ -1,10 +1,14 @@
 ---
 layout: page
+title:
 ---
 
-# Why should we we do mathematics?
+# Why I do mathematics
 
-Why should we do (pure) mathematics? Many people have struggled to explain  
+Pure mathematicians like to claim that their work has no application to the real world.
+Whether or not they are correct in this claim
+Why should I do (pure) mathematics? 
+Many people have struggled to explain  
 
 Why should 
 
