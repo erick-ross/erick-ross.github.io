@@ -1,9 +1,7 @@
 ---
 layout: page
-title: 
 ---
 
-&nbsp;
 
 # Papers
 - Erick Ross. *Dimension Sequences for Modular Forms.* In preparation. Will hopefully be submitted before June 2025.
