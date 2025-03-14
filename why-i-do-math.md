@@ -1,12 +1,12 @@
 ---
 layout: page
-title:
+excerpt: "Welcome page"
 ---
 
 # Why I do mathematics
 
 Pure mathematicians like to claim that their work has no application to the real world.
-Whether or not they are correct in this claim
+Whether or not they are correct in this claim, 
 Why should I do (pure) mathematics? 
 Many people have struggled to explain  
 
