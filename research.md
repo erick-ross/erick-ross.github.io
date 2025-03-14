@@ -4,13 +4,13 @@ layout: page
 
 
 # Research Papers
-- Erick Ross. *Dimension Sequences for Modular Forms.* In preparation. Will hopefully be submitted before June 2025.
-- Archer Clayton, Helen Dai, Tianyu Ni, Erick Ross, Hui Xue, Jake Zummo. *Non-repetition of second coefficients of Hecke polynomials.* Submitted 2024. [ArXiv](https://arxiv.org/abs/2411.18419)
-- Erick Ross, Hui Xue. *Asymptotics and sign patterns of Hecke polynomial coefficients.* Accepted to the Canadian Mathematical Bulletin. [ArXiv](https://arxiv.org/abs/2410.12008)
-- William Cason, Akash Jim, Charlie Medlock, Erick Ross, Hui Xue. *On the average size of the eigenvalues of the Hecke operators.* Archiv der Mathematik (2025). [ArXiv](https://arxiv.org/abs/2407.19076)
-- William Cason, Akash Jim, Charlie Medlock, Erick Ross, Trevor Vilardi, Hui Xue. *Nonvanishing of second coefficients of Hecke polynomials on the newspace.* Accepted to the International Journal of Number Theory. [ArXiv](https://arxiv.org/abs/2407.11694)
-- Erick Ross, Hui Xue. *Signs of the second coefficients of Hecke polynomials.* Accepted to the Illinois Journal of Mathematics. [ArXiv](https://arxiv.org/abs/2407.10951)
-- Erick Ross. *Newspaces with Nebentypus: An Explicit Dimension Formula, Classification of Trivial Newspaces, and Character Equidistribution Property.* Submitted 2024. [ArXiv](https://arxiv.org/abs/2407.08881)
+- *Dimension Sequences for Modular Forms.* Erick Ross. In preparation; it will hopefully be submitted before June 2025.
+- *Non-repetition of second coefficients of Hecke polynomials.* Archer Clayton, Helen Dai, Tianyu Ni, Erick Ross, Hui Xue, Jake Zummo. Submitted 2024. [ArXiv](https://arxiv.org/abs/2411.18419)
+- *Asymptotics and sign patterns of Hecke polynomial coefficients.* Erick Ross, Hui Xue. Accepted to the Canadian Mathematical Bulletin. [ArXiv](https://arxiv.org/abs/2410.12008)
+- *On the average size of the eigenvalues of the Hecke operators.* William Cason, Akash Jim, Charlie Medlock, Erick Ross, Hui Xue. Archiv der Mathematik (2025). [ArXiv](https://arxiv.org/abs/2407.19076)
+- *Nonvanishing of second coefficients of Hecke polynomials on the newspace.* William Cason, Akash Jim, Charlie Medlock, Erick Ross, Trevor Vilardi, Hui Xue. Accepted to the International Journal of Number Theory. [ArXiv](https://arxiv.org/abs/2407.11694)
+- *Signs of the second coefficients of Hecke polynomials.* Erick Ross, Hui Xue. Accepted to the Illinois Journal of Mathematics. [ArXiv](https://arxiv.org/abs/2407.10951)
+- *Newspaces with Nebentypus: An Explicit Dimension Formula, Classification of Trivial Newspaces, and Character Equidistribution Property.* Erick Ross. Submitted 2024. [ArXiv](https://arxiv.org/abs/2407.08881)
 
 
 # Research Talks
