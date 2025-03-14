@@ -9,7 +9,7 @@ My name is Erick Ross, and I am currently a Mathematics PhD student studying und
 
 I work in Number Theory, specifically studying modular forms.<br>I also have some interests in Dynamical Systems, and in Theoretical Computer Science.
 
-A lot of my work has come from very explicit computations of various objects relating to modular forms. Sometimes, we as mathematicians like to work on very fancy things, only working abstractly. However, one can often gain insight by actually carrying out the messy details to compute specific examples. As a professor once told me, the great mathematicians of old were not afraid to carefully carry out long detailed calculations, and we should not be either. 
+A lot of my work revolves around very explicit computations of various objects relating to modular forms. Sometimes, we as mathematicians like to work on very fancy things, only working abstractly. However, one can often gain insight by actually carrying out the messy details to compute specific examples. As a professor once told me, the great mathematicians of old were not afraid to carefully carry out long detailed calculations, and we should not be either. 
 
 If you want to get in touch, feel free to email me at [erickr@clemson.edu](mailto:erickr@clemson.edu).
 
