@@ -139,6 +139,9 @@ p {
 			margin-top: -($indent-var);
 		}
 	}
+
+	// erick added this
+	@include font-size(28);
 }
 
 /*
