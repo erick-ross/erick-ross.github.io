@@ -16,9 +16,9 @@ A lot of my work has come from very explicit computations of various objects rel
 # Why I do mathematics
 I do mathematics primarily to glorify God. 
 Mathematics is in some sense the purest form of the pursuit of truth. And this truth exists insofar as it reflects the character of God. As Grothendieck put it, "Mathematical laws may be discovered by man, but they are not created by man, nor even by God. That two plus two equals four is not a decree of God that He is free to change into two plus two equals three, or five. I perceive the mathematical laws as being part of the very nature of God."
-Ultimately, the order and structure innate in God's character are precisely the reason why we can even study mathematics in the first place. The universe follows logical principles because it was formed by a God that is logical. 
+Ultimately, the order and structure innate in God's character are precisely the reason why we can even study mathematics in the first place. The universe follows logical principles because it was formed by a Creator who is logical. 
 
-In this sense, I view mathematics as a branch of theology. In studying mathematics, I am studing the natural revelation of God.
+In this sense, I view mathematics as a branch of theology. In studying mathematics, I am studying the natural revelation of God.
 
 This perspective is also extremely humbling. I strive to make the following my prayer as I do mathematics.
 > I give thanks to Thee, O Lord Creator, Who hast delighted me with Thy makings. In the works of Thy hands have I exulted. Behold! Now, I have employed as much power of mind as Thou didst give me; to the men who are going to read those demonstrations, I have made manifest the glory of Thy works, as much of its infinity as the narrows of my intellect could apprehend.  
