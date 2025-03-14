@@ -3,7 +3,7 @@
    ========================================================================== */
 
 body {
-	font-size: 115%;
+	// font-size: 115%;
 	background-color: $bodycolor;
 	font-family: $base-font;
 	color: $text-color;
@@ -235,6 +235,7 @@ $button-size: 1.5rem;
 	}
 	.post,
 	.page {
+		font-size: 110%;
 		@include container;
 		@include grid(12,10);
 		@include prefix(12,1);
