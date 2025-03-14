@@ -6,6 +6,11 @@
    Headings
    ========================================================================== */
 
+// erickr 
+body {
+   font-size: 150%;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	font-family: $heading-font;
 }
@@ -139,9 +144,6 @@ p {
 			margin-top: -($indent-var);
 		}
 	}
-
-	// erick added this
-	@include font-size(28);
 }
 
 /*
