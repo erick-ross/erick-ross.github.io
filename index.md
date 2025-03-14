@@ -1,10 +1,12 @@
 ---
 layout: page
 title:
-# excerpt: "About Me..."
-# menutitle: Home
-# menuorder: 1
+excerpt: "About Me..."
+menutitle: Home
+menuorder: 1
 ---
+
+<br>
 
 ## About Me
 
