@@ -24,7 +24,7 @@ This perspective is also extremely humbling. I strive to make the following my p
 > I give thanks to Thee, O Lord Creator, Who hast delighted me with Thy makings. In the works of Thy hands have I exulted. Behold! Now, I have employed as much power of mind as Thou didst give me; to the men who are going to read those demonstrations, I have made manifest the glory of Thy works, as much of its infinity as the narrows of my intellect could apprehend.  
 > \- Johannes Kepler
 
-There is a lot of pressure in academia today to show off to others how smart you are and how good your research is. Kepler, on the other hand, studied the universe in order to show the Creator's glory, not his own. He remembered that any success he had was only possible because of God's grace. As Paul reminded the church at Corinth, "Who maketh thee to differ from another? And what hast thou that thou didst not receive? Now if thou didst receive it, why dost thou glory, as if thou hadst not received it?"
+There is a lot of pressure in academia today to show off how smart you are and how successful your research is. Kepler, on the other hand, studied the universe in order to show the Creator's glory, not his own. He remembered that any success he had was only possible because of God's grace. As Paul reminded the church at Corinth, "Who maketh thee to differ from another? And what hast thou that thou didst not receive? Now if thou didst receive it, why dost thou glory, as if thou hadst not received it?"
 I want this to be my attitude as I do mathematics.
 
 

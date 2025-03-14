@@ -11,7 +11,7 @@ layout: page
 
 
 
-# Classes TA'd for
+# Classes TA'd For
 - Spr. 2023 at Clemson - MATH 3110: Linear Algebra.
 - Fall 2022 at Clemson - STAT 2300: Statistical Methods I.
 
