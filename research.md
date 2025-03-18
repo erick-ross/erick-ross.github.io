@@ -23,7 +23,7 @@ layout: page
 - 09/2024 - **How large are the Hecke eigenvalues and corresponding Fourier coefficients?** *GSS (Graduate Student Seminar)*, Clemson University.
 - 05/2024 - **Nonvanishing of the Second Coefficient of General Hecke Polynomials.** *AFW (Automorphic Forms Workshop)*, Oklahoma State University.
 - 04/2024 - **Eigenbasis Decomposition of Hecke Eigenform Products via the Rankin-Selberg Method.** *SERMON (SouthEastern Regional Meeting on Numbers) conference*, Wofford College.
-- 02/2024 - **From Tori to Elliptic Curves.** *DECAL (Data sECcurity and mAchine Learning) Research Workshop*, Clemson University.
+- 02/2024 - **From Tori to Elliptic Curves.** *DECAL (Data sECurity and mAchine Learning) Research Workshop*, Clemson University.
 
 
 
