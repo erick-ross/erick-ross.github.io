@@ -8,8 +8,8 @@ layout: page
 - [**Non-repetition of second coefficients of Hecke polynomials.**](https://arxiv.org/abs/2411.18419) Archer Clayton, Helen Dai, Tianyu Ni, Erick Ross, Hui Xue, Jake Zummo. *Submitted 2024.*
 - [**Asymptotics and sign patterns of Hecke polynomial coefficients.**](https://arxiv.org/abs/2410.12008) Erick Ross, Hui Xue. *Canadian Mathematical Bulletin (2025).*
 - [**On the average size of the eigenvalues of the Hecke operators.**](https://arxiv.org/abs/2407.19076) William Cason, Akash Jim, Charlie Medlock, Erick Ross, Hui Xue. *Archiv der Mathematik (2025).* 
-- [**Nonvanishing of second coefficients of Hecke polynomials on the newspace.**](https://arxiv.org/abs/2407.11694) William Cason, Akash Jim, Charlie Medlock, Erick Ross, Trevor Vilardi, Hui Xue. *Accepted to the International Journal of Number Theory.* 
-- [**Signs of the second coefficients of Hecke polynomials.**](https://arxiv.org/abs/2407.10951) Erick Ross, Hui Xue. *Accepted to the Illinois Journal of Mathematics.* 
+- [**Nonvanishing of second coefficients of Hecke polynomials on the newspace.**](https://arxiv.org/abs/2407.11694) William Cason, Akash Jim, Charlie Medlock, Erick Ross, Trevor Vilardi, Hui Xue. *To appear in the International Journal of Number Theory.* 
+- [**Signs of the second coefficients of Hecke polynomials.**](https://arxiv.org/abs/2407.10951) Erick Ross, Hui Xue. *To appear in the Illinois Journal of Mathematics.* 
 - [**Newspaces with Nebentypus: An Explicit Dimension Formula, Classification of Trivial Newspaces, and Character Equidistribution Property.**](https://arxiv.org/abs/2407.08881) Erick Ross. *Submitted 2024.* 
 
 
