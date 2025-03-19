@@ -15,7 +15,6 @@ layout: page
 
 # Research Talks
 - 05/2025 - **When exactly will the newspaces exist?** (Upcoming) *AFW (Automorphic Forms Workshop)*, University of North Texas.
-- 04/2025 - **Asymptotic behavior of the Hecke coefficients** (Upcoming) *SERMON (SouthEastern Regional Meeting on Numbers) conference*, Georgia Southern University.
 - 03/2025 - **When precisely will the newspaces of modular forms exist?** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Clemson University.
 - 03/2025 - **How large can we expect the newspaces to be?** *GSS (Graduate Student Seminar)*, Clemson University.
 - 12/2024 - **How large are the eigenvalues of the Hecke operators?** *PANTS (PAlmetto Number Theory Series) conference*, University of South Carolina.
