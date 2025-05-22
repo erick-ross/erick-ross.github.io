@@ -4,9 +4,9 @@ layout: page
 
 
 # Research Papers
-- **Cramer $\alpha$-random primes and the Fundamental Theorem of Arithmetic.** Erick Ross. *Submitted May 2025.*
-- **Dimension Sequences of Modular Forms.** Erick Ross. *Submitted April 2025.*
-- [**Non-repetition of second coefficients of Hecke polynomials.**](https://arxiv.org/abs/2411.18419) Archer Clayton, Helen Dai, Tianyu Ni, Erick Ross, Hui Xue, Jake Zummo. *Submitted November 2024.*
+- **Cramer $\alpha$-random primes and the Fundamental Theorem of Arithmetic.** Erick Ross. *Submitted 05/2025.*
+- **Dimension Sequences of Modular Forms.** Erick Ross. *Submitted 04/2025.*
+- [**Non-repetition of second coefficients of Hecke polynomials.**](https://arxiv.org/abs/2411.18419) Archer Clayton, Helen Dai, Tianyu Ni, Erick Ross, Hui Xue, Jake Zummo. *Submitted 11/2024.*
 - [**Asymptotics and sign patterns of Hecke polynomial coefficients.**](https://arxiv.org/abs/2410.12008) Erick Ross, Hui Xue. *Canadian Mathematical Bulletin (2025).*
 - [**On the average size of the eigenvalues of the Hecke operators.**](https://arxiv.org/abs/2407.19076) William Cason, Akash Jim, Charlie Medlock, Erick Ross, Hui Xue. *Archiv der Mathematik (2025).* 
 - [**Nonvanishing of second coefficients of Hecke polynomials on the newspace.**](https://arxiv.org/abs/2407.11694) William Cason, Akash Jim, Charlie Medlock, Erick Ross, Trevor Vilardi, Hui Xue. *International Journal of Number Theory (2025).* 
