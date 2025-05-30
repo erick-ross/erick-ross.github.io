@@ -11,7 +11,7 @@ layout: page
 - [**On the average size of the eigenvalues of the Hecke operators.**](https://arxiv.org/abs/2407.19076) William Cason, Akash Jim, Charlie Medlock, Erick Ross, Hui Xue. *Archiv der Mathematik (2025).* 
 - [**Nonvanishing of second coefficients of Hecke polynomials on the newspace.**](https://arxiv.org/abs/2407.11694) William Cason, Akash Jim, Charlie Medlock, Erick Ross, Trevor Vilardi, Hui Xue. *International Journal of Number Theory (2025).* 
 - [**Signs of the second coefficients of Hecke polynomials.**](https://arxiv.org/abs/2407.10951) Erick Ross, Hui Xue. *To appear in Illinois Journal of Mathematics.* 
-- [**Newspaces with Nebentypus: An Explicit Dimension Formula, Classification of Trivial Newspaces, and Character Equidistribution Property.**](https://arxiv.org/abs/2407.08881) Erick Ross. *To appear in Journal of Number Theory.* 
+- [**Newspaces with Nebentypus: An Explicit Dimension Formula and Classification of Trivial Newspaces.**](https://arxiv.org/abs/2407.08881) Erick Ross. *To appear in Journal of Number Theory.* 
 
 
 # Research Talks
