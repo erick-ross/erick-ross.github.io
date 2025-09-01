@@ -4,8 +4,8 @@ layout: page
 
 
 # Research Papers
-- **Transcendence of zeros for modular forms.** David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *In progress. Should be submitted by 08/2025.*
-- **Distribution of CM points and class groups of small exponent.** David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *In progress. Should be submitted by 08/2025.*
+- **Transcendence of zeros for modular forms.** David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025.*
+- **Distribution of CM points and class groups of small exponent.** David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025.*
 - **Proportion of Atkin-Lehner sign patterns and Hecke Eigenvalue Equidistribution.** Erick Ross, Alexandre Van Lidth, Martha Rose Wolf, Hui Xue. *Submitted 06/2025.*
 - **Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.** Erick Ross. *Submitted 06/2025.*
 - **Cramer $\alpha$-random primes and the Fundamental Theorem of Arithmetic.** Erick Ross. *Submitted 05/2025.*
