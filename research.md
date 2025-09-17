@@ -4,19 +4,19 @@ layout: page
 
 
 # Research Papers
-- **Transcendence of zeros of modular forms.** David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025.*
-- **Boundary CM points and class groups of small exponent.** David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025.*
-- [**Zeros of Even and Odd Period Polynomials.**](https://arxiv.org/abs/2408.05670) Grace Ko, Jennifer Mackenzie, Erick Ross, Hui Xue. *Submitted 08/2025.*
-- **Proportion of Atkin-Lehner sign patterns and Hecke Eigenvalue Equidistribution.** Erick Ross, Alexandre Van Lidth, Martha Rose Wolf, Hui Xue. *Submitted 06/2025.*
-- **Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.** Erick Ross. *Submitted 06/2025.*
-- **Cramér α-random primes and the Fundamental Theorem of Arithmetic.** Erick Ross. *Submitted 05/2025.*
-- [**Dimension Sequences of Modular Forms.**](https://arxiv.org/abs/2507.12340) Erick Ross. *Research in Number Theory (2025).*
-- [**Non-repetition of second coefficients of Hecke polynomials.**](https://arxiv.org/abs/2411.18419) Archer Clayton, Helen Dai, Tianyu Ni, Erick Ross, Hui Xue, Jake Zummo. *Indagationes Mathematicae (2025).*
-- [**Asymptotics and sign patterns of Hecke polynomial coefficients.**](https://arxiv.org/abs/2410.12008) Erick Ross, Hui Xue. *Canadian Mathematical Bulletin (2025).*
-- [**On the average size of the eigenvalues of the Hecke operators.**](https://arxiv.org/abs/2407.19076) William Cason, Akash Jim, Charlie Medlock, Erick Ross, Hui Xue. *Archiv der Mathematik (2025).* 
-- [**Nonvanishing of second coefficients of Hecke polynomials on the newspace.**](https://arxiv.org/abs/2407.11694) William Cason, Akash Jim, Charlie Medlock, Erick Ross, Trevor Vilardi, Hui Xue. *International Journal of Number Theory (2025).* 
-- [**Signs of the second coefficients of Hecke polynomials.**](https://arxiv.org/abs/2407.10951) Erick Ross, Hui Xue. *Illinois Journal of Mathematics (2025).* 
-- [**Newspaces with Nebentypus: An Explicit Dimension Formula and Classification of Trivial Newspaces.**](https://arxiv.org/abs/2407.08881) Erick Ross. *Journal of Number Theory (2025).* 
+- [**Transcendence of zeros of modular forms.**](/transcendence-of-zeros.pdf) David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025, 15pp.*
+- [**Boundary CM points and class groups of small exponent.**](/boundary-CM-points.pdf) David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025, 13pp.*
+- [**Zeros of Even and Odd Period Polynomials.**](https://arxiv.org/abs/2408.05670) Grace Ko, Jennifer Mackenzie, Erick Ross, Hui Xue. *Submitted 08/2025, 22pp.*
+- [**Proportion of Atkin-Lehner sign patterns and Hecke Eigenvalue Equidistribution.**](/equid-sgnpatt.pdf) Erick Ross, Alexandre Van Lidth, Martha Rose Wolf, Hui Xue. *Under revision with Mathematical Proceedings of the Cambridge Philosophical Society, 17pp.*
+- [**Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.**](/equid-newspace.pdf) Erick Ross. *Submitted 06/2025, 5pp.*
+- [**Cramér α-random primes and the Fundamental Theorem of Arithmetic.**](/cramer-primes.pdf) Erick Ross. *Submitted 05/2025, 18pp.*
+- [**Dimension Sequences of Modular Forms.**](https://arxiv.org/abs/2507.12340) Erick Ross. *Research in Number Theory (2025), 14pp.*
+- [**Non-repetition of second coefficients of Hecke polynomials.**](https://arxiv.org/abs/2411.18419) Archer Clayton, Helen Dai, Tianyu Ni, Erick Ross, Hui Xue, Jake Zummo. *Indagationes Mathematicae (2025), 22pp.*
+- [**Asymptotics and sign patterns of Hecke polynomial coefficients.**](https://arxiv.org/abs/2410.12008) Erick Ross, Hui Xue. *Canadian Mathematical Bulletin, 68 (2025) 914-926.*
+- [**On the average size of the eigenvalues of the Hecke operators.**](https://arxiv.org/abs/2407.19076) William Cason, Akash Jim, Charlie Medlock, Erick Ross, Hui Xue. *Archiv der Mathematik, 124 (2025) 255-263.* 
+- [**Nonvanishing of second coefficients of Hecke polynomials on the newspace.**](https://arxiv.org/abs/2407.11694) William Cason, Akash Jim, Charlie Medlock, Erick Ross, Trevor Vilardi, Hui Xue. *International Journal of Number Theory, 21 (2025) 1479-1512.* 
+- [**Signs of the second coefficients of Hecke polynomials.**](https://arxiv.org/abs/2407.10951) Erick Ross, Hui Xue. *Illinois Journal of Mathematics, 69 (2025) 323-351.* 
+- [**Newspaces with Nebentypus: An Explicit Dimension Formula and Classification of Trivial Newspaces.**](https://arxiv.org/abs/2407.08881) Erick Ross. *Journal of Number Theory, 278 (2026) 317-352.* 
 
 
 # Research Talks
