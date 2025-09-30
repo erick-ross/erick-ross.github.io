@@ -22,15 +22,6 @@ layout: page
 
 
 
-\item 
-11/2025 (upcoming) - \textbf{Dimension Sequences of Modular Forms.} \textit{BARD (Bayou Arithmetic Research Day)}, Louisiana State University.
-\item 
-11/2025 (upcoming) - \textbf{Cramér $\alpha$-random primes and the Fundamental Theorem of Arithmetic.} \textit{Bob Jones University Mathematical Sciences Symposium}, Bob Jones University.
-\item 
-10/2025 (upcoming) - \textbf{What is the asymptotic behavior of the Hecke polynomial coefficients?} \textit{Maine-Québec Number Theory Conference}, University of Maine. 
-\item 
-09/2025 - \textbf{Asymptotics and Sign Patterns for the Hecke Polynomial Coefficients.} \textit{GSS (Graduate Student Seminar)}, Clemson University. 
-
 
 
 # Research Talks
