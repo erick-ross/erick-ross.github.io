@@ -48,4 +48,5 @@ layout: page
 
 
 # Expository Papers
-- [**Three Density-One Formulations of Convergence**](/Three_density_one_formulations_of_convergence.pdf) Erick Ross, Alexandre Van Lidth, Martha Rose Wolf, Hui Xue. *Submitted 09/2025*
+- [**Three Density-One Formulations of Convergence.**](/Three_density_one_formulations_of_convergence.pdf) Erick Ross, Alexandre Van Lidth, Martha Rose Wolf, Hui Xue. *Submitted 09/2025*.
+
