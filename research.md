@@ -25,9 +25,12 @@ layout: page
 
 
 # Research Talks
+- 03/2026 (upcoming) **Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Clemson University.
+- 03/2026 (upcoming) **Boundary CM points.** *Gainesville International Number Theory Conference*, University of Florida.
+- 12/2025 (upcoming) **Zeros of even and odd period polynomials lie on the circle of symmetry.** *PANTS (PAlmetto Number Theory Series) conference*, Clemson University.
 - 11/2025 (upcoming) **Dimension Sequences of Modular Forms.** *BARD (Bayou Arithmetic Research Day)*, Louisiana State University.
-- 11/2025 (upcoming) - **Cramér α-random primes and the Fundamental Theorem of Arithmetic.** *Bob Jones University Mathematical Sciences Symposium*, Bob Jones University.
-- 10/2025 (upcoming) - **What is the asymptotic behavior of the Hecke polynomial coefficients?** *Maine-Quebec Number Theory Conference*, University of Maine. 
+- 11/2025 (upcoming) - **Cramér α-random primes and the Fundamental Theorem of Arithmetic.** *MSS (Mathematical Sciences Symposium)*, Bob Jones University.
+- 10/2025 - **What is the asymptotic behavior of the Hecke polynomial coefficients?** *Maine-Quebec Number Theory Conference*, University of Maine. 
 - 09/2025 - **Asymptotics and Sign Patterns for the Hecke Polynomial Coefficients.** *GSS (Graduate Student Seminar)*, Clemson University. 
 - 05/2025 - **When exactly will the newspaces exist?** *AFW (Automorphic Forms Workshop)*, University of North Texas.
 - 03/2025 - **When precisely will the newspaces of modular forms exist?** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Clemson University.
@@ -41,3 +44,8 @@ layout: page
 
 
 
+
+
+
+# Expository Papers
+- [**Three Density-One Formulations of Convergence**](/Three_density_one_formulations_of_convergence.pdf) Erick Ross, Alexandre Van Lidth, Martha Rose Wolf, Hui Xue. *Submitted 09/2025*
