@@ -25,7 +25,7 @@ layout: page
 
 
 # Research Talks
-- 03/2026 (upcoming) - **Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Clemson University.
+- 03/2026 (upcoming) - **Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Georgia Southern University.
 - 03/2026 (upcoming) - **Boundary CM points.** *Gainesville International Number Theory Conference*, University of Florida.
 - 12/2025 (upcoming) - **Zeros of even and odd period polynomials lie on the circle of symmetry.** *PANTS (PAlmetto Number Theory Series) conference*, Clemson University.
 - 11/2025 (upcoming) - **Dimension Sequences of Modular Forms.** *BARD (Bayou Arithmetic Research Day)*, Louisiana State University.
