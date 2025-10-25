@@ -6,7 +6,7 @@ layout: page
 # Research Papers
 - [**Transcendence of zeros of modular forms.**](/transcendence-of-zeros.pdf) David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025.*
 - [**Boundary CM points and class groups of small exponent.**](/boundary-CM-points.pdf) David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025.*
-- [**Zeros of Even and Odd Period Polynomials.**](https://arxiv.org/abs/2408.05670) Grace Ko, Jennifer Mackenzie, Erick Ross, Hui Xue. *To appear in the Journal of Mathematical Analysis and Applications.*
+- [**Zeros of Even and Odd Period Polynomials.**](https://arxiv.org/abs/2408.05670) Grace Ko, Jennifer Mackenzie, Erick Ross, Hui Xue. *To appear in the Journal of Mathematical Analysis and Applications, 22pp.*
 - [**Proportion of Atkin-Lehner sign patterns and Hecke Eigenvalue Equidistribution.**](/equid-sgnpatt.pdf) Erick Ross, Alexandre Van Lidth, Martha Rose Wolf, Hui Xue. *Under revision with Mathematical Proceedings of the Cambridge Philosophical Society.*
 - [**Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.**](/equid-newspace.pdf) Erick Ross. *Submitted 06/2025.*
 - [**Cramér α-random primes and the Fundamental Theorem of Arithmetic.**](/cramer-primes.pdf) Erick Ross. *Submitted 05/2025.*
