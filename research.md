@@ -7,8 +7,8 @@ layout: page
 - [**Transcendence of zeros of modular forms.**](/transcendence-of-zeros.pdf) David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025.*
 - [**Boundary CM points and class groups of small exponent.**](/boundary-CM-points.pdf) David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025.*
 - [**Zeros of Even and Odd Period Polynomials.**](https://arxiv.org/abs/2408.05670) Grace Ko, Jennifer Mackenzie, Erick Ross, Hui Xue. *To appear in the Journal of Mathematical Analysis and Applications, 22pp.*
-- [**Proportion of Atkin-Lehner sign patterns and Hecke Eigenvalue Equidistribution.**](/equid-sgnpatt.pdf) Erick Ross, Alexandre Van Lidth, Martha Rose Wolf, Hui Xue. *Under revision with Mathematical Proceedings of the Cambridge Philosophical Society.*
-- [**Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.**](/equid-newspace.pdf) Erick Ross. *Submitted 06/2025.*
+- [**Proportion of Atkin-Lehner sign patterns and Hecke Eigenvalue Equidistribution.**](https://arxiv.org/abs/2511.13969) Erick Ross, Alexandre Van Lidth, Martha Rose Wolf, Hui Xue. *To appear in Mathematical Proceedings of the Cambridge Philosophical Society.*
+- [**Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.**](https://arxiv.org/abs/2511.13966) Erick Ross. *To appear in the International Journal of Number Theory.*
 - [**Cramér α-random primes and the Fundamental Theorem of Arithmetic.**](/cramer-primes.pdf) Erick Ross. *Submitted 05/2025.*
 - [**Dimension Sequences of Modular Forms.**](https://arxiv.org/abs/2507.12340) Erick Ross. *Research in Number Theory (2025), 14pp.*
 - [**Non-repetition of second coefficients of Hecke polynomials.**](https://arxiv.org/abs/2411.18419) Archer Clayton, Helen Dai, Tianyu Ni, Erick Ross, Hui Xue, Jake Zummo. *Indagationes Mathematicae (2025), 22pp.*
@@ -29,7 +29,7 @@ layout: page
 - 03/2026 (upcoming) - **Boundary CM points.** *Gainesville International Number Theory Conference*, University of Florida.
 - 12/2025 (upcoming) - **Zeros of even and odd period polynomials lie on the circle of symmetry.** *PANTS (PAlmetto Number Theory Series) conference*, Clemson University.
 - 12/2025 (upcoming) - **Cramér α-random primes and the Fundamental Theorem of Arithmetic.** *GSS (Graduate Student Seminar)*, Clemson University.
-- 11/2025 - **Dimension Sequences of Modular Forms.** *BARD (Bayou Arithmetic Research Day)*, Louisiana State University.
+- 11/2025 - **Dimension Sequences of Modular Forms.** *BARD (Bayou Arithmetic Research Day)*, Louisiana State University (Zoom).
 - 11/2025 - **Cramér α-random primes and the Fundamental Theorem of Arithmetic.** *MSS (Mathematical Sciences Symposium)*, Bob Jones University.
 - 10/2025 - **What is the asymptotic behavior of the Hecke polynomial coefficients?** *Maine-Quebec Number Theory Conference*, University of Maine. 
 - 09/2025 - **Asymptotics and Sign Patterns for the Hecke Polynomial Coefficients.** *GSS (Graduate Student Seminar)*, Clemson University. 
