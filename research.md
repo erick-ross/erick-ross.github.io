@@ -7,8 +7,8 @@ layout: page
 - [**Transcendence of zeros of modular forms.**](/transcendence-of-zeros.pdf) David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025.*
 - [**Boundary CM points and class groups of small exponent.**](/boundary-CM-points.pdf) David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025.*
 - [**Zeros of Even and Odd Period Polynomials.**](https://arxiv.org/abs/2408.05670) Grace Ko, Jennifer Mackenzie, Erick Ross, Hui Xue. *To appear in the Journal of Mathematical Analysis and Applications, 22pp.*
-- [**Proportion of Atkin-Lehner sign patterns and Hecke Eigenvalue Equidistribution.**](https://arxiv.org/abs/2511.13969) Erick Ross, Alexandre Van Lidth, Martha Rose Wolf, Hui Xue. *To appear in Mathematical Proceedings of the Cambridge Philosophical Society.*
-- [**Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.**](https://arxiv.org/abs/2511.13966) Erick Ross. *To appear in the International Journal of Number Theory.*
+- [**Proportion of Atkin-Lehner sign patterns and Hecke Eigenvalue Equidistribution.**](https://arxiv.org/abs/2511.13969) Erick Ross, Alexandre Van Lidth, Martha Rose Wolf, Hui Xue. *To appear in Mathematical Proceedings of the Cambridge Philosophical Society, 17pp.*
+- [**Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.**](https://arxiv.org/abs/2511.13966) Erick Ross. *To appear in the International Journal of Number Theory, 6pp.*
 - [**Cramér α-random primes and the Fundamental Theorem of Arithmetic.**](/cramer-primes.pdf) Erick Ross. *Submitted 05/2025.*
 - [**Dimension Sequences of Modular Forms.**](https://arxiv.org/abs/2507.12340) Erick Ross. *Research in Number Theory (2025), 14pp.*
 - [**Non-repetition of second coefficients of Hecke polynomials.**](https://arxiv.org/abs/2411.18419) Archer Clayton, Helen Dai, Tianyu Ni, Erick Ross, Hui Xue, Jake Zummo. *Indagationes Mathematicae (2025), 22pp.*
