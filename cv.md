@@ -5,7 +5,7 @@ layout: page
 *Last updated 09/2025*
 
 
-[**Open PDF**](/Erick-Ross-CV.pdf)
+[**Open PDF**](/Erick_Ross_CV.pdf)
 
 <!-- <a href="/Erick-Ross-CV.pdf" target="_blank">Open PDF</a> -->
 
