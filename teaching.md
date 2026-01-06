@@ -4,6 +4,7 @@ layout: page
 
 
 # Classes Taught
+- Spr. 2026 at Clemson - MATH 2070: Business Calculus II.
 - Fall 2025 at Clemson - MATH 2070: Business Calculus II.
 - Spr. 2025 at Clemson - MATH 2070: Business Calculus II.
 - Fall 2024 at Clemson - MATH 1060: Calculus of One Variable I.
