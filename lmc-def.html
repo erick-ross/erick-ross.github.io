@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Little Man Computer - CPU simulator - help page</title>
+</head>
+<body>
+
+
+<h1><center>Little Man Computer - CPU simulator - help page</center></h1>
+<p>
+The Little Man Computer (LMC) is an instructional model of a computer, created by Dr. Stuart Madnick in 1965.
+It models the architecture of a simple computer and has all the basic features. 
+See <a href="http://en.wikipedia.org/wiki/Little_man_computer" target="_blank" >en.wikipedia.org/wiki/Little_man_computer</a> for more information.
+</p><p>
+The original concept was that inside the CPU is a tiny man who runs around executing instructions encoded in a list. Inside the CPU there are:
+<ul>
+<li>100 Memory locations (numbered 0 to 99), which can each hold a number between -999 and 999</li>
+<li>An Accumulator to store the result of the last operation or calculation.</li>
+<li>A Program Counter to store the address (in memory) of the next instruction to do.</li>
+<li>An Instruction Register to hold the top digit of the instruction read from memory.</li>
+<li>An Address Register to hold the bottom two digits of the instruction read from memory.</li>
+<li>An Input tray into which a number can be typed when needed.</li>
+<li>An Output area where any numbers output are printed.</li>
+</ul>
+</p><p>
+The Program Counter holds only 2 digits (0 to 99) and the Accumulator holds 3 digits and a sign (-999 to 999). The Output area holds a certain amount of information in two columns and then scrolls (and old information disappears).
+</p><p>
+When an instruction is read from memory the top digit is used to decide what to do. To help us write programs more easily each instruction type is given a name which the ASSEMBLE function converts to the corresponding code. The bottom two digits are used as an address associated with the instruction. The instructions are:
+</p><p>
+<table style="width: 100%; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr valign="top">
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="5%" ><strong>Code</strong></td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="10%" ><strong>Name</strong></td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="65%" ><strong>Description</strong></td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+</tr>
+<tr valign="top">
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="5%" >&nbsp;0</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="10%" >HLT</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="65%" >Stop (Little Man has a rest).</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+</tr>
+<tr valign="top">
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="5%" >&nbsp;1</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="10%" >ADD</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="65%" >Add the contents of the memory address to the Accumulator</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+</tr>
+<tr valign="top">
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="5%" >&nbsp;2</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="10%" >SUB</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="65%" >Subtract the contents of the memory address from the Accumulator</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+</tr>
+<tr valign="top">
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="5%" >&nbsp;3</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="10%" >STA</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="65%" >Store the value in the Accumulator in the memory address given.</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+</tr>
+<tr valign="top">
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="5%" >&nbsp;4</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="10%" >&nbsp;</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="65%" >This code is unused and gives an error.</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+</tr>
+<tr valign="top">
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="5%" >&nbsp;5</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="10%" >LDA</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="65%" >Load the Accumulator with the contents of the memory address given</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+</tr>
+<tr valign="top">
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="5%" >&nbsp;6</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="10%" >BRA</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="65%" >Branch - use the address given as the address of the next instruction</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+</tr>
+<tr valign="top">
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="5%" >&nbsp;7</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="10%" >BRZ</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="65%" >Branch to the address given if the Accumulator is zero</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+</tr>
+<tr valign="top">
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="5%" >&nbsp;8</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="10%" >BRP</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="65%" >Branch to the address given if the Accumulator is zero or positive</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+</tr>
+<tr valign="top">
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="5%" >&nbsp;9</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="10%" >INP</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="65%" >Input. Put the value from Input into the Accumulator.</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+</tr>
+<tr valign="top">
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="5%" >&nbsp;9</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="10%" >OUT</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="65%" >Output. Put the value from the Accumulator into Output.</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+</tr>
+<tr valign="top">
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="10%" >DAT</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+<td style="padding: 0;" width="65%" >Used to indicate a location that contains data.</td>
+<td style="padding: 0;" width="5%" >&nbsp;</td>
+</tr>
+</tbody></table>
+</p><p>
+Note that the LMC computer cannot tell whether memory locations contain instructions or data. Most modern computers can segment their memory but there has to be a way for the output from one program the become the instructions of another. DAT is a fake instruction to tell the assembler that this location contains data.
+</p><p>
+</body>
+</html>
