@@ -1,0 +1,100 @@
+// Little Man Computer - Collatz Sequence (Optimized Division)
+// Counts steps to reach 1. (3n+1)/2 counts as 2 steps.
+// Uses a binary-style subtraction to speed up division by 2.
+START   INP // Get starting n
+        STA N // Save it
+LOOP    LDA N // Load n
+        OUT
+        SUB ONE // Is it 1?
+        BRZ DONE // If yes, output steps
+// Optimized Division by 2 Loop
+// Instead of subtracting 2 repeatedly, we "shift" bits.
+        LDA N
+        STA TEMP_N // Work on a copy
+        LDA ZERO
+        STA N_DIV_2 // Reset n/2 result
+// Check bits from highest to lowest to build the result
+// Check if 512 is in n (making 256 in n/2)
+        LDA TEMP_N
+        SUB D512
+        BRP BIT512
+        BRA NEXT256
+BIT512  STA TEMP_N
+        LDA N_DIV_2
+        ADD D256
+        STA N_DIV_2
+NEXT256 LDA TEMP_N
+        SUB D256
+        BRP BIT256
+        BRA NEXT128
+BIT256  STA TEMP_N
+        LDA N_DIV_2
+        ADD D128
+        STA N_DIV_2
+NEXT128 LDA TEMP_N
+        SUB D128
+        BRP BIT128
+        BRA NEXT64
+BIT128  STA TEMP_N
+        LDA N_DIV_2
+        ADD D64
+        STA N_DIV_2
+NEXT64  LDA TEMP_N
+        SUB D64
+        BRP BIT64
+        BRA NEXT32
+BIT64   STA TEMP_N
+        LDA N_DIV_2
+        ADD D32
+        STA N_DIV_2
+NEXT32  LDA TEMP_N
+        SUB D32
+        BRP BIT32
+        BRA TAIL
+BIT32   STA TEMP_N
+        LDA N_DIV_2
+        ADD D16
+        STA N_DIV_2
+TAIL    LDA TEMP_N
+        SUB TWO
+        BRP IS_POS
+        BRA IS_ODD
+IS_POS  STA TEMP_N
+        LDA N_DIV_2
+        ADD ONE
+        STA N_DIV_2
+        LDA TEMP_N
+        BRZ IS_EVEN
+        BRA TAIL // --- Parity Logic ---
+IS_ODD  LDA N // N = N + N/2 + 1
+        ADD N_DIV_2
+        ADD ONE
+        STA N
+        LDA STEPS
+        ADD TWO
+        STA STEPS
+        BRA LOOP
+// Even Logic: N = N / 2
+IS_EVEN LDA N_DIV_2
+        STA N
+        LDA STEPS
+        ADD ONE
+        STA STEPS // Steps++
+        BRA LOOP
+DONE    LDA STEPS
+        OUT // Output result
+        HLT
+// Data Storage
+N       DAT 000
+TEMP_N  DAT 000
+N_DIV_2 DAT 000
+STEPS   DAT 000
+ZERO    DAT 000
+ONE     DAT 001
+TWO     DAT 002
+D16     DAT 016
+D32     DAT 032
+D64     DAT 064
+D128    DAT 128
+D256    DAT 256
+D512    DAT 512
