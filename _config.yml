@@ -8,8 +8,8 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Erick Ross
   avatar: bio-photo.jpg
-  bio: "Mathematician.<br>Slave to Christ."
-  email: erickr@clemson.edu
+  bio: # "Mathematician.<br>Slave to Christ."
+  email: erickr AT clemson DOT edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
