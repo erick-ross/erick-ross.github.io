@@ -2,7 +2,7 @@
 layout: page
 ---
 
-*Last updated 09/2025*
+*Last updated 03/2026*
 
 
 [**Open PDF**](/Erick_Ross_CV.pdf)

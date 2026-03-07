@@ -29,6 +29,7 @@ layout: page
 - 05/2026 (upcoming) - **Equidistribution of Hecke eigenvalues.** *AFW (Automorphic Forms Workshop)*, Kansas State University.
 - 04/2026 (upcoming) - **Period polynomial zeros lie on the circle of symmetry.** *TORA (Texas-Oklahoma Representations and Automorphic Forms) conference*, University of Oklahoma.
 - 03/2026 (upcoming) - **Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Georgia Southern University.
+- 03/2026 (upcoming) - **Boundary CM points and Class Groups of Small Exponent.** *Gainesville International Number Theory Conference*, University of Florida.
 - 12/2025 - **Zeros of even and odd period polynomials lie on the circle of symmetry.** *PANTS (PAlmetto Number Theory Series) conference*, Clemson University.
 - 12/2025 - **Cramér α-random primes and the Fundamental Theorem of Arithmetic.** *GSS (Graduate Student Seminar)*, Clemson University.
 - 11/2025 - **Dimension Sequences of Modular Forms.** *BARD (Bayou Arithmetic Research Day)*, Louisiana State University (Zoom).
