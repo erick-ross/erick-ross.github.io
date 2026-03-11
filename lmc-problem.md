@@ -1,6 +1,9 @@
 ---
-layout: raw
+layout: semiraw
 ---
+
+
+## Little Man Computer Resources 
 
 - The Little Man Computer starting code can be found [here](/lmc-starter-code.txt)
 - You can run/test your Little Man Computer code [here](https://peterhigginson.co.uk/lmc/).
