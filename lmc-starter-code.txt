@@ -1,0 +1,41 @@
+start   INP          
+        STA n    
+main    LDA n        
+        OUT             
+        SUB one      
+        BRZ finish   // If n=1, stop.
+        
+        LDA zero     // Otherwise, compute the quotient/remainder of 
+        STA quot     // n divided by 2 (by repeatedly subtracting 2 from n).
+        LDA n   
+        STA rmndr 
+sub_loop  LDA rmndr    
+        SUB two                 
+        BRP not_neg
+        BRA done_with_division // if rmndr-2 <  0, then we are done computing n divided by 2
+not_neg STA rmndr              // if rmndr-2 >= 0, then subtract 2 from rmndr, and increment quot
+        LDA quot      
+        ADD one      
+        STA quot      
+        BRA sub_loop           // Keep going
+
+done_with_division  LDA rmndr
+        BRZ rmndr0
+rmndr1  LDA n           // remainder=1: Compute 3n+1 
+        ADD n    
+        ADD n 
+        ADD one    
+        STA n        
+        BRA main    
+rmndr0  LDA quot        // remainder=0: Compute n/2 (which is already in quot!)
+        STA n         
+        BRA main     
+
+finish  HLT          
+// Data
+n       DAT           
+rmndr   DAT
+quot    DAT
+zero    DAT 0
+one     DAT 1
+two     DAT 2
