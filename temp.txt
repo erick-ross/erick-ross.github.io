@@ -1,0 +1,47 @@
+Productivity:
+
+
+- [**Are sets with a given multiplicative structure guaranteed to have a density?**](/mult-density.pdf) Erick Ross. *Submitted 01/2026.*
+- [**Transcendence of zeros of modular forms.**](/transcendence-of-zeros.pdf) David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025.*
+- [**Boundary CM points and class groups of small exponent.**](/boundary-CM-points.pdf) David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Proceedings of the AMS*, To appear, 13pp, 2026.
+- [**Zeros of Even and Odd Period Polynomials.**](https://arxiv.org/abs/2408.05670) Grace Ko, Jennifer Mackenzie, Erick Ross, Hui Xue. *Journal of Mathematical Analysis and Applications*, 556(1.1), 22pp, 2026.
+- [**Proportion of Atkin-Lehner sign patterns and Hecke Eigenvalue Equidistribution.**](https://arxiv.org/abs/2511.13969) Erick Ross, Alexandre Van Lidth, Martha Rose Wolf, Hui Xue. *Mathematical Proceedings of the Cambridge Philosophical Society*, To appear, 17pp, 2026.
+- [**Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.**](https://arxiv.org/abs/2511.13966) Erick Ross. *International Journal of Number Theory*, 22(4):809-814, 2026.
+- [**Cramér α-random primes and the Fundamental Theorem of Arithmetic.**](/cramer-primes.pdf) Erick Ross. *Submitted 05/2025.*
+- [**Dimension Sequences of Modular Forms.**](https://arxiv.org/abs/2507.12340) Erick Ross. *Research in Number Theory*, 14pp, 2025.
+- [**Non-repetition of second coefficients of Hecke polynomials.**](https://arxiv.org/abs/2411.18419) Archer Clayton, Helen Dai, Tianyu Ni, Erick Ross, Hui Xue, Jake Zummo. *Indagationes Mathematicae*, 22pp, 2025.
+- [**Asymptotics and sign patterns of Hecke polynomial coefficients.**](https://arxiv.org/abs/2410.12008) Erick Ross, Hui Xue. *Canadian Mathematical Bulletin*, 68:914-926, 2025.
+- [**On the average size of the eigenvalues of the Hecke operators.**](https://arxiv.org/abs/2407.19076) William Cason, Akash Jim, Charlie Medlock, Erick Ross, Hui Xue. *Archiv der Mathematik*, 124:255-263, 2025.
+- [**Nonvanishing of second coefficients of Hecke polynomials on the newspace.**](https://arxiv.org/abs/2407.11694) William Cason, Akash Jim, Charlie Medlock, Erick Ross, Trevor Vilardi, Hui Xue. *International Journal of Number Theory*, 21:1479-1512, 2025.
+- [**Signs of the second coefficients of Hecke polynomials.**](https://arxiv.org/abs/2407.10951) Erick Ross, Hui Xue. *Illinois Journal of Mathematics*, 69:323-351, 2025. 
+- [**Newspaces with Nebentypus: An Explicit Dimension Formula and Classification of Trivial Newspaces.**](https://arxiv.org/abs/2407.08881) Erick Ross. *Journal of Number Theory*, 278:317-352, 2026. 
+
+
+
+
+# Research Talks
+- 05/2026 (upcoming) - **Equidistribution of Hecke eigenvalues.** *AFW (Automorphic Forms Workshop)*, Kansas State University.
+- 04/2026 - **Boundary CM points and Class Groups of Small Exponent.** *TORA (Texas-Oklahoma Representations and Automorphic Forms) conference*, University of Oklahoma.
+- 04/2024 - **Period polynomial zeros lie on the circle of symmetry.** *SERMON (SouthEastern Regional Meeting on Numbers) conference*, High Point University.
+- 03/2026 - **Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Georgia Southern University.
+- 03/2026 - **Boundary CM points and Class Groups of Small Exponent.** *Gainesville International Number Theory Conference*, University of Florida.
+- 12/2025 - **Zeros of even and odd period polynomials lie on the circle of symmetry.** *PANTS (PAlmetto Number Theory Series) conference*, Clemson University.
+- 12/2025 - **Cramér α-random primes and the Fundamental Theorem of Arithmetic.** *GSS (Graduate Student Seminar)*, Clemson University.
+- 11/2025 - **Dimension Sequences of Modular Forms.** *BARD (Bayou Arithmetic Research Day)*, Louisiana State University (Zoom).
+- 11/2025 - **Cramér α-random primes and the Fundamental Theorem of Arithmetic.** *MSS (Mathematical Sciences Symposium)*, Bob Jones University.
+- 10/2025 - **What is the asymptotic behavior of the Hecke polynomial coefficients?** *Maine-Quebec Number Theory Conference*, University of Maine. 
+- 09/2025 - **Asymptotics and Sign Patterns for the Hecke Polynomial Coefficients.** *GSS (Graduate Student Seminar)*, Clemson University. 
+- 05/2025 - **When exactly will the newspaces exist?** *AFW (Automorphic Forms Workshop)*, University of North Texas.
+- 03/2025 - **When precisely will the newspaces of modular forms exist?** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Clemson University.
+- 03/2025 - **How large can we expect the newspaces to be?** *GSS (Graduate Student Seminar)*, Clemson University.
+- 12/2024 - **How large are the eigenvalues of the Hecke operators?** *PANTS (PAlmetto Number Theory Series) conference*, University of South Carolina.
+- 09/2024 - **Nonvanishing of second coefficients of Hecke polynomials on the newspace.** *PANTS (PAlmetto Number Theory Series) conference*, Wake Forest University.
+- 09/2024 - **How large are the Hecke eigenvalues and corresponding Fourier coefficients?** *GSS (Graduate Student Seminar)*, Clemson University.
+- 05/2024 - **Nonvanishing of the Second Coefficient of General Hecke Polynomials.** *AFW (Automorphic Forms Workshop)*, Oklahoma State University.
+- 04/2024 - **Eigenbasis Decomposition of Hecke Eigenform Products via the Rankin-Selberg Method.** *SERMON (SouthEastern Regional Meeting on Numbers) conference*, Wofford College.
+- 02/2024 - **From Tori to Elliptic Curves.** *DECAL (Data sECurity and mAchine Learning) Research Workshop*, Clemson University.
+
+
+
+
+
