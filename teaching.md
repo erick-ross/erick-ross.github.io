@@ -4,6 +4,7 @@ layout: page
 
 
 ## Instructor of Record at Clemson University
+- Fall 2026 - MATH 1080: Calculus of One Variable II.
 - Spr. 2026 - MATH 2070: Business Calculus II 
 - Spr. 2026 - STAT 2301: Statistical Methods I Lab.
 - Fall 2025 - MATH 2070: Business Calculus II. *Principal Instructor of Record.*

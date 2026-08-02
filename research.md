@@ -4,7 +4,8 @@ layout: page
 
 
 # Research Papers
-- [**Are sets with a given multiplicative structure guaranteed to have a density?**](/mult-density.pdf) Erick Ross. *Submitted 01/2026.*
+- [**Equidistribution of CM points and RM curves**](https://arxiv.org/abs/2605.28614) Erick Ross and Xui Xue. *Submitted 05/2026.*
+- [**Are sets with a given multiplicative structure guaranteed to have a density?**](/mult-density.pdf) Erick Ross. *Acta Arithmetica*, To appear, 9pp, 2026.
 - [**Transcendence of zeros of modular forms.**](/transcendence-of-zeros.pdf) David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025.*
 - [**Boundary CM points and class groups of small exponent.**](/boundary-CM-points.pdf) David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Proceedings of the AMS*, To appear, 13pp, 2026.
 - [**Zeros of Even and Odd Period Polynomials.**](https://arxiv.org/abs/2408.05670) Grace Ko, Jennifer Mackenzie, Erick Ross, Hui Xue. *Journal of Mathematical Analysis and Applications*, 556(1.1), 22pp, 2026.
@@ -26,7 +27,9 @@ layout: page
 
 
 # Research Talks
-- 05/2026 (upcoming) - **Equidistribution of Hecke eigenvalues.** *AFW (Automorphic Forms Workshop)*, Kansas State University.
+- 10/2026 (upcoming) - **Dimension Sequence of Modular Forms** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Kennesaw State University.
+- 05/2026 - **Boundary CM points and class groups of small exponent.** *AFW (Automorphic Forms Workshop)*, Kansas State University.
+- 05/2026 - **Equidistribution of Hecke eigenvalues.** *AFW (Automorphic Forms Workshop)*, Kansas State University.
 - 04/2026 - **Boundary CM points and Class Groups of Small Exponent.** *TORA (Texas-Oklahoma Representations and Automorphic Forms) conference*, University of Oklahoma.
 - 04/2024 - **Period polynomial zeros lie on the circle of symmetry.** *SERMON (SouthEastern Regional Meeting on Numbers) conference*, High Point University.
 - 03/2026 - **Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Georgia Southern University.
