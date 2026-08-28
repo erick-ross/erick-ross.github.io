@@ -7,9 +7,9 @@ layout: page
 - [**On Murmurations.**](/On_Murmurations.pdf) Timothy Nelson, Erick Ross, Maya Wassercug, and Hui Xue. *Submitted 08/2026, 26pp.*
 - [**Asymptotics of Hecke polynomial coefficients on the Atkin-Lehner eigenspaces.**](https://arxiv.org/abs/2608.18497) Timothy Nelson, Erick Ross, Maya Wassercug, and Hui Xue. *Submitted 08/2026, 30pp.*
 - [**Interlacing for zeros of the Serre derivative of Eisenstein series.**](https://arxiv.org/abs/2608.15248) Maggie Bohanek, Owen McGinty, Erick Ross, Yanhui Su, and Hui Xue. *Submitted 08/2026, 51pp.*
-- [**Equidistribution of CM points and RM curves**](https://arxiv.org/abs/2605.28614) Erick Ross and Xui Xue. *Submitted 05/2026.*
+- [**Equidistribution of CM points and RM curves**](https://arxiv.org/abs/2605.28614) Erick Ross and Xui Xue. *Submitted 05/2026.* 31pp.
 - [**Are sets with a given multiplicative structure guaranteed to have a density?**](/mult-density.pdf) Erick Ross. *Acta Arithmetica*, 9pp, 2026.
-- [**Transcendence of zeros of modular forms.**](/transcendence-of-zeros.pdf) David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025.*
+- [**Transcendence of zeros of modular forms.**](/transcendence-of-zeros.pdf) David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Submitted 09/2025.* 15pp. 
 - [**Boundary CM points and class groups of small exponent.**](/boundary-CM-points.pdf) David Aiken, Erick Ross, Dmitriy Shvydkoy, Hui Xue. *Proceedings of the AMS*, 13pp, 2026.
 - [**Zeros of even and odd period polynomials.**](https://arxiv.org/abs/2408.05670) Grace Ko, Jennifer Mackenzie, Erick Ross, Hui Xue. *Journal of Mathematical Analysis and Applications*, 556(1.1), 22pp, 2026.
 - [**Proportion of Atkin-Lehner sign patterns and Hecke eigenvalue equidistribution.**](https://arxiv.org/abs/2511.13969) Erick Ross, Alexandre Van Lidth, Martha Rose Wolf, Hui Xue. *Mathematical Proceedings of the Cambridge Philosophical Society*, 17pp, 2026.
@@ -30,28 +30,37 @@ layout: page
 
 
 # Research Talks
-- 10/2026 (upcoming) - **Dimension Sequence of Modular Forms** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Kennesaw State University.
+
+- 10/2026 (upcoming) - **TBD.** *Number theory seminar*, Kansas State University (Zoom).
+- 10/2026 (upcoming) - **TBD.** *Number theory seminar*, University of Illinois Chicago.
+- 10/2026 (upcoming) - **Cramér α-random primes and the fundamental theorem of arithmetic.** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Kennesaw State University.
+- 10/2026 (upcoming) - **Equidistribution of CM points and RM curves.** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Kennesaw State University.
+- 10/2026 (upcoming) - **Dimension sequences of modular forms.** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Kennesaw State University.
+- 10/2026 (upcoming) - **TBD.** *Number theory seminar*, Louisiana State University.
+- 10/2026 (upcoming) - **Cramér α-random primes and the fundamental theorem of arithmetic.**
+*PANTS (PAlmetto Number Theory Series) conference*, Georgia Tech.
+- 08/2026 - **Boundary CM points and class groups of small exponent.** *ANTeater (Analytic Number Theory) summer school*, University of California Irvine.
 - 05/2026 - **Boundary CM points and class groups of small exponent.** *AFW (Automorphic Forms Workshop)*, Kansas State University.
 - 05/2026 - **Equidistribution of Hecke eigenvalues.** *AFW (Automorphic Forms Workshop)*, Kansas State University.
-- 04/2026 - **Boundary CM points and Class Groups of Small Exponent.** *TORA (Texas-Oklahoma Representations and Automorphic Forms) conference*, University of Oklahoma.
+- 04/2026 - **Boundary CM points and class groups of small exponent.** *TORA (Texas-Oklahoma Representations and Automorphic Forms) conference*, University of Oklahoma.
 - 04/2024 - **Period polynomial zeros lie on the circle of symmetry.** *SERMON (SouthEastern Regional Meeting on Numbers) conference*, High Point University.
-- 03/2026 - **Hecke Eigenvalue Equidistribution over the Newspaces with Nebentypus.** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Georgia Southern University.
-- 03/2026 - **Boundary CM points and Class Groups of Small Exponent.** *Gainesville International Number Theory Conference*, University of Florida.
+- 03/2026 - **Hecke eigenvalue equidistribution over the newspaces with nebentypus.** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Georgia Southern University.
+- 03/2026 - **Boundary CM points and class groups of small exponent.** *Gainesville International Number Theory Conference*, University of Florida.
 - 12/2025 - **Zeros of even and odd period polynomials lie on the circle of symmetry.** *PANTS (PAlmetto Number Theory Series) conference*, Clemson University.
-- 12/2025 - **Cramér α-random primes and the Fundamental Theorem of Arithmetic.** *GSS (Graduate Student Seminar)*, Clemson University.
-- 11/2025 - **Dimension Sequences of Modular Forms.** *BARD (Bayou Arithmetic Research Day)*, Louisiana State University (Zoom).
-- 11/2025 - **Cramér α-random primes and the Fundamental Theorem of Arithmetic.** *MSS (Mathematical Sciences Symposium)*, Bob Jones University.
+- 12/2025 - **Cramér α-random primes and the fundamental theorem of arithmetic.** *GSS (Graduate Student Seminar)*, Clemson University.
+- 11/2025 - **Dimension sequences of modular forms.** *BARD (Bayou Arithmetic Research Day)*, Louisiana State University (Zoom).
+- 11/2025 - **Cramér α-random primes and the fundamental theorem of arithmetic.** *MSS (Mathematical Sciences Symposium)*, Bob Jones University.
 - 10/2025 - **What is the asymptotic behavior of the Hecke polynomial coefficients?** *Maine-Quebec Number Theory Conference*, University of Maine. 
-- 09/2025 - **Asymptotics and Sign Patterns for the Hecke Polynomial Coefficients.** *GSS (Graduate Student Seminar)*, Clemson University. 
+- 09/2025 - **Asymptotics and sign patterns for the Hecke polynomial coefficients.** *GSS (Graduate Student Seminar)*, Clemson University. 
 - 05/2025 - **When exactly will the newspaces exist?** *AFW (Automorphic Forms Workshop)*, University of North Texas.
 - 03/2025 - **When precisely will the newspaces of modular forms exist?** *AMS (American Mathematical Society) Southeastern Sectional Meeting*, Clemson University.
 - 03/2025 - **How large can we expect the newspaces to be?** *GSS (Graduate Student Seminar)*, Clemson University.
 - 12/2024 - **How large are the eigenvalues of the Hecke operators?** *PANTS (PAlmetto Number Theory Series) conference*, University of South Carolina.
 - 09/2024 - **Nonvanishing of second coefficients of Hecke polynomials on the newspace.** *PANTS (PAlmetto Number Theory Series) conference*, Wake Forest University.
 - 09/2024 - **How large are the Hecke eigenvalues and corresponding Fourier coefficients?** *GSS (Graduate Student Seminar)*, Clemson University.
-- 05/2024 - **Nonvanishing of the Second Coefficient of General Hecke Polynomials.** *AFW (Automorphic Forms Workshop)*, Oklahoma State University.
-- 04/2024 - **Eigenbasis Decomposition of Hecke Eigenform Products via the Rankin-Selberg Method.** *SERMON (SouthEastern Regional Meeting on Numbers) conference*, Wofford College.
-- 02/2024 - **From Tori to Elliptic Curves.** *DECAL (Data sECurity and mAchine Learning) Research Workshop*, Clemson University.
+- 05/2024 - **Nonvanishing of the second coefficient of general Hecke polynomials.** *AFW (Automorphic Forms Workshop)*, Oklahoma State University.
+- 04/2024 - **Eigenbasis decomposition of Hecke eigenform products via the Rankin-Selberg method.** *SERMON (SouthEastern Regional Meeting on Numbers) conference*, Wofford College.
+- 02/2024 - **From tori to elliptic curves.** *DECAL (Data sECurity and mAchine Learning) Research Workshop*, Clemson University.
 
 
 
